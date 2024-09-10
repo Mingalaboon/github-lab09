@@ -13,6 +13,7 @@ namespace github_lab09
 
         private bool playerHit;
 
+        private int Characterpos = 1234;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
