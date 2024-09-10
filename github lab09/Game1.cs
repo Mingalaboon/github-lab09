@@ -8,6 +8,7 @@ namespace github_lab09
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        int player = 1;
 
         public Game1()
         {
