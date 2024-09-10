@@ -11,6 +11,8 @@ namespace github_lab09
 
         private int enemyspeed = 999;
 
+        private bool playerHit;
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
