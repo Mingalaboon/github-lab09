@@ -15,6 +15,7 @@ namespace github_lab09
         private bool playerHit;
 
         private int Characterpos = 1234;
+        int sounddd;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
